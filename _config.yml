@@ -43,7 +43,7 @@ external_link:
 filename_case: 1
 render_drafts: false
 post_asset_folder: false
-relative_link: false
+relative_link: true #修改成相对路径，避免出现重复子路径
 future: true
 highlight:
   enable: false
