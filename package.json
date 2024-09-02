@@ -18,6 +18,7 @@
     "version": "5.4.2"
   },
   "dependencies": {
+    "CheatSheets.zip": "file:",
     "eslint": "^8.27.0",
     "gulp": "^4.0.2",
     "gulp-cli": "^2.3.0",
